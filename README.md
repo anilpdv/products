@@ -22,3 +22,5 @@ product_server is the backend api, its deployed in heroku. if you want to run lo
 ```
 
 
+1. products_server deployed url : [https://young-tor-67484.herokuapp.com/](https://young-tor-67484.herokuapp.com/)
+1. products_ui deployed url : [https://reverent-ptolemy-01daac.netlify.app/](https://reverent-ptolemy-01daac.netlify.app/)
