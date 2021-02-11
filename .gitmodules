@@ -1,0 +1,6 @@
+[submodule "products_server"]
+	path = products_server
+	url = https://github.com/anilpdv/products_server.git
+[submodule "products_ui"]
+	path = products_ui
+	url = https://github.com/anilpdv/products_ui.git
